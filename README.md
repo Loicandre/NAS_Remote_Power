@@ -21,7 +21,7 @@ I use the Wemos D1 mini-pro board, wich integrate the ESP8266 and the CP2104 Chi
 I also put the 3D files for the board in the folder https://github.com/Loicandre/NAS_Remote_Power/tree/main/3D.
 This protects the circuit and gives a nice look !
  
-![alt text](https://github.com/Loicandre/NAS_Remote_Power/blob/main/Blynk_Config/BlynkApp.jpeg "Blynk App")
+![alt text](https://github.com/Loicandre/NAS_Remote_Power/blob/main/Wemo_With_Box.jpeg "Blynk App" =480x)
 
 ## Arduino firmware
 
@@ -57,13 +57,13 @@ Compiled with arduino 1.8.13 and ESP8266 package 2.7.4
 Create an blynk app and paste received token in the NAS_Remote_Power.ino settings
 
 Blynk App: 
-![alt text](https://github.com/Loicandre/NAS_Remote_Power/blob/main/Blynk_Config/BlynkApp.jpeg "Blynk App")
+![alt text](https://github.com/Loicandre/NAS_Remote_Power/blob/main/Blynk_Config/BlynkApp.jpeg "Blynk App" =480x)
 
 Create Button for Virtual pin V1
-![alt text](https://github.com/Loicandre/NAS_Remote_Power/blob/main/Blynk_Config/ButtonSettings.jpeg "Button Settings")
+![alt text](https://github.com/Loicandre/NAS_Remote_Power/blob/main/Blynk_Config/ButtonSettings.jpeg "Button Settings" =480x)
 
 Create LED for Virtual pin V2
-![alt text](https://github.com/Loicandre/NAS_Remote_Power/blob/main/Blynk_Config/LedSettings.jpeg "LED Settings")
+![alt text](https://github.com/Loicandre/NAS_Remote_Power/blob/main/Blynk_Config/LedSettings.jpeg "LED Settings" =480x)
 
 
 ## Install
