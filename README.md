@@ -25,8 +25,8 @@ IPAddress bcastAddr(192, 168, 0, 255);		// put your LAN broadcast adress (usuall
 // ********************************************************************************
 ```
 
-Virtual pin V1 : When 1, Send Wake On Lan magic paquet to predifined MAC address
-Virtual pin V2 : A timer send a ping every 10sec. The result is saved in V2 (1=ping returned; 0=ping lost) 
+- Virtual pin V1 : When 1, Send Wake On Lan magic paquet to predifined MAC address
+- Virtual pin V2 : A timer send a ping every 10sec. The result is saved in V2 (1=ping returned; 0=ping lost) 
 
 
 Compiled with arduino 1.8.13 and ESP8266 package 2.7.4
@@ -36,13 +36,13 @@ Compiled with arduino 1.8.13 and ESP8266 package 2.7.4
 Create an blynk app and paste received token in the NAS_Remote_Power.ino settings
 
 Blynk App: 
-![alt text](https://github.com/Loicandre/NAS_Remote_Power/Blynk_Config/BlynkApp.jpeg "Blynk App")
+![alt text](https://github.com/Loicandre/NAS_Remote_Power/blob/main/Blynk_Config/BlynkApp.jpeg "Blynk App")
 
 Create Button for Virtual pin V1
-![alt text](https://github.com/Loicandre/NAS_Remote_Power/Blynk_Config/ButtonSettings.jpeg "Button Settings")
+![alt text](https://github.com/Loicandre/NAS_Remote_Power/blob/main/Blynk_Config/ButtonSettings.jpeg "Button Settings")
 
 Create LED for Virtual pin V2
-![alt text](https://github.com/Loicandre/NAS_Remote_Power/Blynk_Config/LedSettings.jpeg "LED Settings")
+![alt text](https://github.com/Loicandre/NAS_Remote_Power/blob/main/Blynk_Config/LedSettings.jpeg "LED Settings")
 
 
 
