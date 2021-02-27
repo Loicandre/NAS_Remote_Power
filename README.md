@@ -2,7 +2,7 @@
 Use Blynk and a ESP8266 (WEMOS D1 mini pro) to send Wake On Lan frame to wake a Synology NAS from outside.
 With also a Blynk Led to show Ping NAS state
 
-##Arduino APP
+## Arduino APP
 
 Please Add your settings in NAS_Remote_Power.ino
 
@@ -31,7 +31,7 @@ Virtual pin V2 : A timer send a ping every 10sec. The result is saved in V2 (1=p
 
 Compiled with arduino 1.8.13 and ESP8266 package 2.7.4
 
-##Blynk APP
+## Blynk APP
 
 Create an blynk app and paste received token in the NAS_Remote_Power.ino settings
 
